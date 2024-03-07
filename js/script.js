@@ -3,6 +3,9 @@
 // Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
 
 // 1 - Stampo in console i numeri da 1 a 100
+for (let i = 1; i <= 100; i++){
+    console.log('number' , i);
+}
 // 2 - Verfico per che numeri è divisibile e assegno il valore corretto
     // 2-a Controllo se il numero è divisibile per 5 E 3 e gli assegno il valore fizzbuzz
     // 2-b Controllo se il numero è divisibile per 5 e gli assegno il valore buzz
