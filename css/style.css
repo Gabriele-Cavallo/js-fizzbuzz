@@ -30,7 +30,6 @@ h1{
     justify-content: center;
     align-items: center;
     margin: 10px;
-    background-color: #1389b2;
 }
 .container-for{
     display: flex;
@@ -39,12 +38,15 @@ h1{
     display: flex;
     flex-wrap: wrap;
 }
-.Fizz {
+.base-bg{
+    background-color: #1389b2;
+}
+.fizz {
     background-color: #0cd6a1;
 }
-.Buzz {
+.buzz {
     background-color: #ffd166;
 }
-.FizzBuzz {
+.fizzbuzz {
     background-color: #f0466f;
 }
